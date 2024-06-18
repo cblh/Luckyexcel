@@ -56,6 +56,7 @@ export let numFmtDefault:IattributeList = {
     "20": 'h:mm',
     "21": 'h:mm:ss',
     "22": 'm/d/yy h:mm',
+    "31": 'yyyy"年"m"月"d"日"',
     "37": '#,##0 ;(#,##0)',
     "38": '#,##0 ;[Red](#,##0)',
     "39": '#,##0.00;(#,##0.00)',
