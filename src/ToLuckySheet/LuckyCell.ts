@@ -643,6 +643,7 @@ export class LuckySheetCelldata extends LuckySheetCelldataBase{
                             }
 
                             cellFormat.t = "inlineStr";
+                            cellValue.v = text;
                             // cellFormat.s = [InlineString];
                             cellValue.ct = cellFormat;
                             // console.log(cellValue);
